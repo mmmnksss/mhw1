@@ -172,10 +172,6 @@ footer p{
     object-fit: cover;
 }
 
-.city_name {
-    color: black;
-}
-
 .city_name:hover {
     background-color: rgb(80, 145, 80);
 }
