@@ -188,12 +188,6 @@ footer p{
 }
 
 
-/*
-To maximise visibility on smaller displays, margins are extended
-from 66.67% of the viewport to 80%, font sizes are slightly
-increased, and more height between lines is added.
-The total height of the pictures is gradually decreased.
-*/
 @media (max-width: 1000px) {
     .photo {
         height: 400px;
